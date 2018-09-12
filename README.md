@@ -1,2 +1,2 @@
 # cheat-sheets
-Plein de fiches pour se souvenirs des commandes importantes
+Plein de fiches pour se souvenir des commandes importantes
